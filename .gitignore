@@ -221,3 +221,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Астрономические данные и отчеты
+data/
+results/
+*.fits
+*.fit
+*.csv
+*.png
+.DS_Store
